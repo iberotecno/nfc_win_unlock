@@ -117,12 +117,12 @@ void loop() {
     return;
   }
 
-  //  digitalWrite(RXLED, HIGH);
 
+ // ESTABLECER AQUÍ LA CONTRASEÑA DEL PC
   Serial.println("Escribiendo contraseña del PC...");
   Keyboard.print(" "); // Simulamos presionar la tecla espacio
   delay(1000);
-  Keyboard.print("4701");
+  Keyboard.print("1234");
   delay(1000);
   Keyboard.write(10);
 
