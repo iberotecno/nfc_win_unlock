@@ -75,12 +75,12 @@ Si realizas el montaje por ti mismo, necesitarás realizar estos pasos previos:
 
 Una véz hecho, descarga el firmware que necesites desde esta página y grábalo en tu placa. Recuerda que debes descargar previamente las librerías necesarias, que se indican en el código fuente.
 
-<img src="https://iberotecno.com/tienda/img/cms/co2/pantalla/COMPRENSION.jpg" alt="image" width="530" height="330" >
-
 ## Proceso de montaje y conexiones
 
 * Vídeo en Youtube: <a href="https://www.youtube.com/watch?v=pzQ7J2eaPns">Ver vídeo</a><br />
 * Artículo explicativo en nuestro blog: <a href="https://iberotecno.com/tienda/blog/electronica/desbloquea-tu-pc">Ver artículo en Blog iberotecno</a><br />
+
+<img src="https://iberotecno.com/tienda/img/cms/Slider/conexiones.jpg" alt="image" width="530" height="330" >
 
 ## Manual de instrucciones
 
